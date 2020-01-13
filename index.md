@@ -20,7 +20,7 @@ The same format as before - we will have talks, discussions, some refreshments. 
 ### Talks / topics
 
 * **Steganography beyond CTF** by Akseli Piilola
-* **Gas gas gas! - Testing gas stations for information security** by Heikki Stark, Auditor @ Nixu
+* **Testing gas stations** by Heikki Stark
 * **"fuzzing"**, Atte Kettunen
 
 
