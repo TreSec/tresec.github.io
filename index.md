@@ -2,7 +2,7 @@
 layout: default
 ---
 
-We are still here: [TreSec at meetup.com](https://www.meetup.com/TreSec/).
+We are still here: [TreSec at meetup.com](https://www.meetup.com/TreSec/) and [in Twitter](https://twitter.com/TresecCommunity).
 
 Chatting is possible at [CitySec Mattermost](https://citysec.disobey.fi/), courtesy of [Disobey](https://www.disobey.fi).
 
