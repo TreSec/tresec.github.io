@@ -11,18 +11,25 @@ Check out the other CitySec groups at [CitySec.fi](https://citysec.fi/).
 
 # Upcoming events
 
-At the moment, meetups are not happening because of Covid-19 situation. We will be back when the situation is in control.
+## Meetup 01 / 2023, 2023-02-23
 
+[Tammersec kickstarts again](https://www.meetup.com/tresec/events/290965179/)
+
+* When: 2023-02-23 16:30
+* Where: Solita HQ, Peltokatu 26, Tampere
+* What: Talks and social interaction, if you feel like it.
+
+### Talks
+
+* **Fuzzing Swagger endpoints with Golang** by Massimo Prencipe
+* **It is time to roll out hardware MFAs** by Jarno Virtanen
+* **Wi-Fi roaming security and privacy** by Karri Huhtanen
+
+# Past events
 
 ## Meetup 02 / 2020, 28.5.
 
 Cancelled. Was supposed to happen at Vincit HQ at Hervanta.
-
-[28.5. Meetup, sponsored by Vincit](https://www.meetup.com/TreSec/events/267837170/)
-
-
-
-# Past events
 
 ## Meetup 01 / 2020, 3.3.
 
