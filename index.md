@@ -11,6 +11,10 @@ Check out the other CitySec groups at [CitySec.fi](https://citysec.fi/).
 
 # Upcoming events
 
+We got stuff brewing, stay tuned.
+
+# Past events
+
 ## Meetup 01 / 2023, 2023-02-23
 
 [Tammersec kickstarts again](https://www.meetup.com/tresec/events/290965179/)
@@ -25,13 +29,11 @@ Check out the other CitySec groups at [CitySec.fi](https://citysec.fi/).
 * **It is time to roll out hardware MFAs** by Jarno Virtanen
 * **Wi-Fi roaming security and privacy** by Karri Huhtanen
 
-# Past events
-
-## Meetup 02 / 2020, 28.5.
+## Meetup 02 / 2020, 2020-05-28
 
 Cancelled. Was supposed to happen at Vincit HQ at Hervanta.
 
-## Meetup 01 / 2020, 3.3.
+## Meetup 01 / 2020, 2020-03-03
 
 [3.3. Reboot Meetup, sponsored by Solita](https://www.meetup.com/TreSec/events/267836961/)
 
