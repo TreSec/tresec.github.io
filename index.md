@@ -38,7 +38,16 @@ Reaktor and Secure Code Warrior hosted a competition on writing and fixing secur
 
 "Hone your skills at writing secure software, take a a sauna (if you wish) and meet other developers. This a friendly contest of skills - who has the sharpest eyes and can to spot all the security flaws in a piece of source code? And also knows how to fix them! "
 
-## Meetup 01 / 2023, 2023-02-23
+## Meetup 02 / 2023, 11.5. 2023 
+
+At the YLE studios at Tohloppi!
+
+Presentations:
+* **Actor and reporter** Juuso Pekkinen
+* **“How to keep your ML assets safe”** by Satu Korhonen
+* **People feel insecure online. Why should we care?** , Laura Kankaala
+
+## Meetup 01 / 2023, 23.2. 2023 
 
 [Tammersec kickstarts again](https://www.meetup.com/tresec/events/290965179/)
 
@@ -52,11 +61,11 @@ Reaktor and Secure Code Warrior hosted a competition on writing and fixing secur
 * **It is time to roll out hardware MFAs** by Jarno Virtanen
 * **Wi-Fi roaming security and privacy** by Karri Huhtanen
 
-## Meetup 02 / 2020, 2020-05-28
+## Meetup 02 / 2020, 28.5. 2020 
 
 Cancelled. Was supposed to happen at Vincit HQ at Hervanta.
 
-## Meetup 01 / 2020, 2020-03-03
+## Meetup 01 / 2020, 3.3. 2020  
 
 [3.3. Reboot Meetup, sponsored by Solita](https://www.meetup.com/TreSec/events/267836961/)
 
