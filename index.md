@@ -14,9 +14,27 @@ Check out the other CitySec groups at [citySec.fi](https://citysec.fi/).
 
 # Upcoming events
 
-We got stuff brewing, stay tuned.
+We got stuff brewing, stay tuned. Might want to keep 3.6. free at your calendar.
+
 
 # Past events
+
+## Meetup 01 / 2025, 2025-04-22
+
+TammerSec is back!
+
+* When: 2025-04-22 17:00
+* Where: Solita HQ, Peltokatu 26, Tampere
+* What: Talks, pizza, and great people
+
+### Talks
+
+* **Make ISMS sexy again: open source ‘security as code’ approach** by Suvi Kaartinen
+* **Responding to edge device breaches: insights from a DFIR provider** by Harri Kuosmanen
+
+## Secure Code Warrior competition / 2024
+
+Reaktor and Secure Code Warrior hosted a competition on writing and fixing secure software.
 
 ## Meetup 01 / 2023, 2023-02-23
 
@@ -50,15 +68,54 @@ The same format as before - we will have talks, discussions, some refreshments. 
 * **Testing gas stations** by Heikki Stark
 * **How to investigate and recover from a security breach – real-life experiences with WordPress** by Otto Kekäläinen
 
-## Meetup 01 / 2025, 2025-04-22
 
-TammerSec is back!
+## HackTheBox evening 5.3. 2019
 
-* When: 2025-04-22 17:00
-* Where: Solita HQ, Peltokatu 26, Tampere
-* What: Talks, pizza, and great people
+Shared fun with challenges on HackTheBox.
 
-### Talks
+## Meetup 01 / 5.2. 2019
 
-* **Make ISMS sexy again: open source ‘security as code’ approach** by Suvi Kaartinen
-* **Responding to edge device breaches: insights from a DFIR provider** by Harri Kuosmanen
+Intopalo was sponsoring us, and had us as visitors at their HQ.
+
+Presentations:
+
+* Nina Kuisma: **Zero-budget IoT security testing, i.e firmware reversing. Also noob-level APK reversing.**
+(Unfortunately in Finnish)
+* Raine Nieminen: **Introduction to cryptography for software developers**
+* Henry Haverinen: **Secure design best practices and design patterns**
+
+## Christmas Pwn 8.12. 2018
+
+"hands-on workshop introduces the offensive perspective to information security with lab exercises covering the very basics of reconnaissance, attack preparation, exploitation, and privilege escalation techniques."
+
+Ossi Väänänen starring as the main instructor and teacher.
+
+
+## Meetup 01 / 2018, 21.5. 2018
+
+* Henry Haverinen / Intopalo: **Secure software development in industrial context and SDL based on IEC 62443-4-1 standard.**
+* Antti Virtanen / Solita: **DevSecOps - goodbye Anarchy, welcome Bureaucracy and Process.**
+
+
+## Insta hack 21.3. 2018
+
+One presentation, but the main theme of the evening was live hacking and penetration testing of Insta's software. Insta was hosting us at their HQ.
+
+Karri Huhtanen: **Certificates and TLS -- If they feel easy, you are doing something wrong**
+Insta: presentation and kickstarting the hacking
+
+
+## Meetup 02 / 2017, 28.11. 2017
+
+* **The never-ending badge war**: Tapio Vuorinen
+* **Automated Security Testing. Docker for Great Success:** Antti Virtanen
+
+## Meetup 01 / 2017, 24.8. 2017
+
+Where it all began. We had some presentations, and sauna. 
+
+Topics:
+* Shamil Alifow - **The amazing Turku scene´**
+* Antti Virtanen - **Many perils awaiting developers´**
+* Iiro Uusitalo - **My latest internet-of-shit pwnage**
+
