@@ -32,9 +32,11 @@ TammerSec is back!
 * **Make ISMS sexy again: open source ‘security as code’ approach** by Suvi Kaartinen
 * **Responding to edge device breaches: insights from a DFIR provider** by Harri Kuosmanen
 
-## Secure Code Warrior competition / 2024
+## Secure Code Warrior competition 22.2. 2024
 
 Reaktor and Secure Code Warrior hosted a competition on writing and fixing secure software.
+
+"Hone your skills at writing secure software, take a a sauna (if you wish) and meet other developers. This a friendly contest of skills - who has the sharpest eyes and can to spot all the security flaws in a piece of source code? And also knows how to fix them! "
 
 ## Meetup 01 / 2023, 2023-02-23
 
