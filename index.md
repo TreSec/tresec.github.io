@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Our new home is [in luma](https://lu.ma/user/TammerSec), where we'll announce our upcoming events.
+Our new home is [in luma](https://lu.ma/TammerSec), where we'll announce our upcoming events.
 
 Follow us on social media:
 
