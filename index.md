@@ -16,21 +16,6 @@ Check out the other CitySec groups at [citySec.fi](https://citysec.fi/).
 
 {% include luma.html %}
 
-## Meetup 02 / 2025,  2025-06-03
-
-* When: 2025-06-03 17:00
-* Where: TAMK Main Campus, C-Wing, 1st Floor, C1-05 Stage
-* What: Talks, good people, and probably some war stories
-
-We're currently looking for a sponsor - let us know if you'd like to support the event with tea, coffee, or cookies. Otherwise: bring your own refreshments.
-
-### Talks
-
-* **Secure by Design: Golden Paths for Internal Developer Platforms in Gaming** by Juho Syrjänen & Svitlana Chaplinska
-  * How Metacore integrated security into a developer platform built for games played by millions.
-* **Tulella leikkimisen peruskurssi** by Nina Kuisma
-  * A talk about “hacking back” - staying within legal limits. Presented in Finnish, slides in English.
-
 # Past events
 
 ## Meetup 01 / 2025, 2025-04-22
