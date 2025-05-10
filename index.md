@@ -14,16 +14,7 @@ Check out the other CitySec groups at [citySec.fi](https://citysec.fi/).
 
 # Upcoming events
 
-<iframe
-  src="https://lu.ma/embed/calendar/cal-hrdDqpheZZFRMHP/events"
-  width="600"
-  height="450"
-  frameborder="0"
-  style="border: 1px solid #bfcbda88; border-radius: 4px;"
-  allowfullscreen=""
-  aria-hidden="false"
-  tabindex="0"
-></iframe>
+{% include luma.html %}
 
 ## Meetup 02 / 2025,  2025-06-03
 
