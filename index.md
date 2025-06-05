@@ -18,6 +18,21 @@ Check out the other CitySec groups at [citySec.fi](https://citysec.fi/).
 
 # Past events
 
+## Meetup 02 / 2025, 2025-06-03
+
+TammerSec continues - new talks, new faces, same good vibe.
+When: 2025-06-03 17.00
+Where: TAMK, Tampere University of Applied Sciences
+What: Presentations, networking, light snacks.
+
+Talks:
+
+* **Secure By Design: Golden Paths for Internal Developer Platforms in Gaming** by Juho Syrjänen & Svitlana Chaplinska
+* **Tulella leikkimisen peruskurssi** by Nina Kuisma
+
+Sponsored by Remod Oy.
+
+
 ## Meetup 01 / 2025, 2025-04-22
 
 TammerSec is back!
