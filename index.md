@@ -18,6 +18,19 @@ Check out the other CitySec groups at [citySec.fi](https://citysec.fi/).
 
 # Past events
 
+## Meetup 03 / 2025, 2025-08-27
+
+* When: 2025-08-27 17:00
+* Where: Kalmar, Ruskontie 55, Tampere
+* What: Presentations, networking, snacks
+
+### Talks
+
+* **11 Ways to Hack Windows 11** by Sami Laiho
+* **The Story of a DDoS** by Iiro Uusitalo
+
+Sponsored by Kalmar
+
 ## Meetup 02 / 2025, 2025-06-03
 
 TammerSec continues - new talks, new faces, same good vibe.
