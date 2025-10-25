@@ -18,6 +18,14 @@ Check out the other CitySec groups at [citySec.fi](https://citysec.fi/).
 
 # Past events
 
+## Meetup 04 / 2025, 2025-10-23
+
+Beginner CTF Night – relaxed intro to Capture the Flag.
+
+* When: 2025-10-23 17:00
+* Where: Tampere
+* What: Beginner-friendly challenges, networking
+
 ## Meetup 03 / 2025, 2025-08-27
 
 * When: 2025-08-27 17:00
