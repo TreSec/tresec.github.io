@@ -18,6 +18,20 @@ Check out the other CitySec groups at [citySec.fi](https://citysec.fi/).
 
 # Past events
 
+## Meetup 05 / 2025, 2025-11-19
+
+Final meetup of the year!
+
+* When: 2025-11-19 17:00
+* Where: Valmet, Tampere
+* What: Presentations, networking
+
+### Talks
+
+* **DNAe ISA Secure certification process**
+* **OT cybersecurity**
+* **Local defense topics**
+
 ## Meetup 04 / 2025, 2025-10-23
 
 Beginner CTF Night – relaxed intro to Capture the Flag.
