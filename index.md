@@ -18,6 +18,20 @@ Check out the other CitySec groups at [citySec.fi](https://citysec.fi/).
 
 # Past events
 
+## Meetup 01 / 2026, 2025-04-09
+
+First TammerSec meetup of the year - great start.
+
+* When: 2026-04-09 17:30
+* Where: TAMK, Tampere University of Applied Sciences
+* What: Practical reconnaissance and attack surface mapping
+
+### Talks
+
+* **Mapping the Attack Surface: Practical Reconnaissance by Aarni Roininen**
+
+Sponsored by Verda Cloud Oy
+
 ## Meetup 05 / 2025, 2025-11-19
 
 Final meetup of the year!
