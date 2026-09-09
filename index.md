@@ -18,6 +18,19 @@ Check out the other CitySec groups at [citySec.fi](https://citysec.fi/).
 
 # Past events
 
+## Meetup 02 / 2026, 2026-05-26
+
+* When: 2026-05-26 17:00
+* Where: INSTA Group Oy, Sarankulmankatu 20 (PL 80), 33901 Tampere
+* What: Trust, chaos, and two Anttis
+
+### Talks
+
+* **Luottamuksen arkkitehtuuri - miksi todellinen kyberturvallisuus rakentuu ihmisten välille** by Antti Laatikainen (presentation in Finnish)
+* **Agentic AI brings incoming chaos** by Antti Virtanen
+
+Sponsored by Insta Group
+
 ## Meetup 01 / 2026, 2025-04-09
 
 First TammerSec meetup of the year - great start.
