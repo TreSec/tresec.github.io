@@ -18,6 +18,19 @@ Check out the other CitySec groups at [citySec.fi](https://citysec.fi/).
 
 # Past events
 
+## Meetup 03 / 2026, 2026-09-17
+
+* When: 2026-09-17 17:00
+* Where: Monad Oy
+* What: Threat landscape and manipulation
+
+### Talks
+
+* **The Finnish Cyber Threat Landscape: Key Incidents Since 2025** by Reza Abasi
+* **Kohteena mieli ja sydän – miten mielesi on manipuloitavissa** by Samuli Järvinen
+
+Sponsored by Monad Oy
+
 ## Meetup 02 / 2026, 2026-05-26
 
 * When: 2026-05-26 17:00
