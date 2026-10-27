@@ -18,6 +18,21 @@ Check out the other CitySec groups at [citySec.fi](https://citysec.fi/).
 
 # Past events
 
+## Meetup 04 / 2026, 2026-10-20
+
+Fourth meetup of the year, this time fully in Finnish.
+
+* When: 2026-10-20 17:00
+* Where: Gofore Oyj
+* What: Cyber defence training and critical infrastructure under attack
+
+### Talks
+
+* **Maanpuolustuskoulutus MPK kyberturvallisuustaitojen kouluttajana** by Juha-Matti
+* **OT Kyberturvallisuus – mitä ajankohtaiset ilmiöt ja hyökkäykset kriittistä infrastruktuuria vastaan kertovat meille maailmalta** by Kimmo Saarni
+
+Sponsored by Gofore Oyj
+
 ## Meetup 03 / 2026, 2026-09-17
 
 * When: 2026-09-17 17:00
